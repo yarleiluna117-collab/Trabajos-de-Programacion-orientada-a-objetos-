@@ -13,7 +13,7 @@
 
 Todos los programas utilizan estructuras condicionales `if`, `elif` y `else`.
 
-Programas con ciclos de estructura repetitiva 
+#Programas con ciclos de estructura repetitiva 
 
 ### 1. Contador de dígitos
 Cuenta cuántos dígitos tiene un número entero utilizando un ciclo `while`.
