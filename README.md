@@ -12,3 +12,20 @@
 5. **Tarifa de entrada:** determina el costo de entrada a un parque de acuerdo con la edad de la persona.
 
 Todos los programas utilizan estructuras condicionales `if`, `elif` y `else`.
+
+Programas con ciclos de estructura repetitiva 
+
+### 1. Contador de dígitos
+Cuenta cuántos dígitos tiene un número entero utilizando un ciclo `while`.
+
+### 2. FizzBuzz
+Muestra los números del 1 al número indicado y utiliza "Fizz", "Buzz" o "FizzBuzz" dependiendo de sus múltiplos.
+
+### 3. Número invertido
+Invierte los dígitos de un número entero utilizando un ciclo `while`.
+
+### 4. Suma de pares e impares
+Calcula por separado la suma de los números pares y los números impares hasta `n`.
+
+### 5. Pirámide de asteriscos
+Dibuja una pirámide de asteriscos según la altura indicada por el usuario.
